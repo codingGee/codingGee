@@ -1,14 +1,8 @@
-
-
-![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
-<img src="https://codinggee.herokuapp.com/static/images/img.svg"  width="60%" height="30%">
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm CodingGee</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
-
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codinggee&label=Profile%20views&color=0e75b6&style=flat" alt="codinggee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codinggee" alt="codinggee" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/geecoding" target="blank"><img src="https://img.shields.io/twitter/follow/geecoding?logo=twitter&style=for-the-badge" alt="geecoding" /></a> </p>
 
 - 🔭 I’m currently working on **MyPosbook**
